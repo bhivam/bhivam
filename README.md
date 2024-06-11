@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Shivam. I like working on coding projects!
 
 <!--
 **bhivam/bhivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
